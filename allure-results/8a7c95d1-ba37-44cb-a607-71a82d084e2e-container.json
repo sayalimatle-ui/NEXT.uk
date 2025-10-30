@@ -1,0 +1,1 @@
+{"uuid":"8a7c95d1-ba37-44cb-a607-71a82d084e2e","name":"com.next.base.BaseTest.setup","children":["f4a978a5-ad9c-4352-abf9-7d789da30171"],"description":"","befores":[{"name":"setup","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1760521544884,"stop":1760521544884}],"afters":[],"start":1760521544883,"stop":1760521544884}

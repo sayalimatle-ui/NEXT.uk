@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name = "Chrome Test">
+  <parameter name="browser-name" value="Chrome"></parameter>
+    <classes>
+      <class name="com.next.test.LoginTest"/>
+    </classes>
+  </test> 
+  
+</suite> <!-- Suite -->
