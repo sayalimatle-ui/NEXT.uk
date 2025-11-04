@@ -7,5 +7,11 @@
       <class name="com.next.test.LoginTest"/>
     </classes>
   </test> 
+  <test name = "Firefox">
+  <parameter name="browser-name" value="Firefox"></parameter>
+    <classes>
+      <class name="com.next.test.LoginTest"/>
+    </classes>
+  </test>
   
 </suite> <!-- Suite -->
